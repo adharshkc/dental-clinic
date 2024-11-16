@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Atyp';
+    src: url('./assets/fonts/38490a1b32810f9ae73e62c6472df93a.woff2') format('woff2'),
+         url('./assets/fonts/38490a1b32810f9ae73e62c6472df93a.woff') format('woff'),
+         url('./assets/fonts/Atyp\ Display\ TRIAL\ Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+html{
+    font-family: "Atyp", sans-serif;
+}
